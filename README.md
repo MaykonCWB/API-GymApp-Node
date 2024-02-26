@@ -12,5 +12,3 @@ API que será utilizada para minhas aplicações em React.JS e React Native.
 
 ### API Docs
 To view the API documentation, run the API and access [http://localhost:3333/api-docs](http://localhost:3333/api-docs) in your browser
-
-TODOS OS DIREITOS RESERVADOS A ROCKETSEAT
