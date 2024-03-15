@@ -1,7 +1,7 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "API desenvolvida para ser utilizada no módulo de consumo de API na trilha de React Native do Ignite.",
+  "description": "API desenvolvida para ser utilizada no módulo de consumo de API.",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
